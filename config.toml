@@ -1,0 +1,12 @@
+baseurl = "https://jquagliatini.github.io/dian"
+author = "Jordan Quagliatini"
+languageCode = "en"
+theme = "cocoa"
+
+[params]
+title = "dian"
+selfintro = "dian is another newsletter"
+dateform = "2006-01-02"
+include_rss = true
+tags = false
+github = "//github.com/jquagliatini/dian"
