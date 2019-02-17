@@ -31,7 +31,7 @@ development techniques.
 
 > https://tus.io/protocols/resumable-upload.html
 
-This specification has been here for while apparently, but I never heard of it
+This specification has been here for a while apparently, but I never heard of it
 before. I find it really interesting, and will definitely try to use it in
 any future project involving a good dose of file upload (who said, _any_
 project ?).

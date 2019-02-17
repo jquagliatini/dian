@@ -1,4 +1,4 @@
-baseurl = "https://jquagliatini.github.io/dian"
+baseURL = "https://jquagliatini.github.io/dian/"
 author = "Jordan Quagliatini"
 languageCode = "en"
 theme = "cocoa"
