@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on </title>
+    <link>https://jquagliatini.github.io/dian/tags/design/</link>
+    <description>Recent content in Design on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jquagliatini.github.io/dian/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Issue #1</title>
+      <link>https://jquagliatini.github.io/dian/issues/01-event-source-ninja-code-and-pixel-perfect-design/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jquagliatini.github.io/dian/issues/01-event-source-ninja-code-and-pixel-perfect-design/</guid>
+      <description>Let&amp;rsquo;s face it event sourcing is hard, and you probably don&amp;rsquo;t need it 2019-02-03 | Chris Kehl  https://chriskiehl.com/article/event-sourcing-is-hard
+ I heard a lot about event sourcing, and I find it facinating. To be honest, I even thought about using it professionaly. Let&amp;rsquo;s say, that this article made me thought differently&amp;hellip; to say the least.
+ What&amp;rsquo;s the take away here? Should I event source or not!?
+I think you can generally answer it with some alone time, deep introspection, and two questions:</description>
+    </item>
+    
+  </channel>
+</rss>

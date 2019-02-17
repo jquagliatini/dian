@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jquagliatini.github.io/dian/issues/02-rendering-on-the-web-and-resumable-file-upload/</loc>
+    <lastmod>2019-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jquagliatini.github.io/dian/issues/01-event-source-ninja-code-and-pixel-perfect-design/</loc>
+    <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jquagliatini.github.io/dian/</loc>
+    <lastmod>2019-02-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jquagliatini.github.io/dian/blog/</loc>
+    <lastmod>2019-02-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jquagliatini.github.io/dian/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jquagliatini.github.io/dian/tags/coding-principles/</loc>
+    <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jquagliatini.github.io/dian/tags/design/</loc>
+    <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jquagliatini.github.io/dian/tags/event-sourcing/</loc>
+    <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jquagliatini.github.io/dian/tags/</loc>
+    <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jquagliatini.github.io/dian/tags/web-development/</loc>
+    <lastmod>2019-02-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

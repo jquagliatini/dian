@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>https://jquagliatini.github.io/dian/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jquagliatini.github.io/dian/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coding Principles</title>
+      <link>https://jquagliatini.github.io/dian/tags/coding-principles/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jquagliatini.github.io/dian/tags/coding-principles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://jquagliatini.github.io/dian/tags/design/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jquagliatini.github.io/dian/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Sourcing</title>
+      <link>https://jquagliatini.github.io/dian/tags/event-sourcing/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jquagliatini.github.io/dian/tags/event-sourcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>https://jquagliatini.github.io/dian/tags/web-development/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jquagliatini.github.io/dian/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
